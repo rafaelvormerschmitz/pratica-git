@@ -1,3 +1,4 @@
 <?php
   phpinfo()
+  //TESTE GIT
 ?>
